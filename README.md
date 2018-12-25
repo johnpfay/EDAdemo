@@ -1,2 +1,4 @@
-# EDAdemo
-Demo folder for ENV 872
+# Environmental_Data_Analytics
+Data analytics course for Duke University. Course code: ENV 872L
+
+User: Demo User
